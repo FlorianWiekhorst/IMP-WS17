@@ -1,0 +1,1101 @@
+fileFormatVersion: 2
+guid: de23c1a681bab624bb18ebd7213dd4e6
+timeCreated: 1517487621
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2D ToonBear Idle Frame 1
+    21300002: 2D ToonBear Idle Frame 2
+    21300004: 2D ToonBear Idle Frame 3
+    21300006: 2D ToonBear Idle Frame 4
+    21300008: 2D ToonBear Idle Frame 5
+    21300010: 2D ToonBear Idle Frame 6
+    21300012: 2D ToonBear Idle Frame 7
+    21300014: 2D ToonBear Idle Frame 8
+    21300016: 2D ToonBear Idle Frame 9
+    21300018: 2D ToonBear Idle Frame 10
+    21300020: 2D ToonBear Run Frame 1
+    21300022: 2D ToonBear Run Frame 2
+    21300024: 2D ToonBear Run Frame 3
+    21300026: 2D ToonBear Run Frame 4
+    21300028: 2D ToonBear Run Frame 5
+    21300030: 2D ToonBear Run Frame 6
+    21300032: 2D ToonBear Run Frame 7
+    21300034: 2D ToonBear Run Frame 8
+    21300036: 2D ToonBear Run Frame 9
+    21300038: 2D ToonBear Run Frame 10
+    21300040: 2D ToonBear Run Frame 11
+    21300042: 2D ToonBear Run Frame 12
+    21300044: 2D ToonBear Punch Frame 1
+    21300046: 2D ToonBear Punch Frame 2
+    21300048: 2D ToonBear Punch Frame 3
+    21300050: 2D ToonBear Punch Frame 4
+    21300052: 2D ToonBear Punch Frame 5
+    21300054: 2D ToonBear Punch Frame 6
+    21300056: 2D ToonBear Punch Frame 7
+    21300058: 2D ToonBear Punch Frame 8
+    21300060: 2D ToonBear Punch Frame 9
+    21300062: 2D ToonBear Punch Frame 10
+    21300064: 2D ToonBear Punch Frame 11
+    21300066: 2D ToonBear Punch Frame 12
+    21300068: 2D ToonBear Runsdfsdfsdf
+    21300070: 2D ToonBear Sprint Frame 2
+    21300072: 2D ToonBear Sprint Frame 3
+    21300074: 2D ToonBear Sprint Frame 4
+    21300076: 2D ToonBear Sprint Frame 5
+    21300078: 2D ToonBear Sprint Frame 6
+    21300080: 2D ToonBear Sprint Frame 7
+    21300082: 2D ToonBear Sprint Frame 8
+    21300084: 2D ToonBear Idle Frame 11
+    21300086: 2D ToonBear Jump Frame 1
+    21300088: 2D ToonBear Jump Frame 2
+    21300090: 2D ToonBear Jump Frame 3
+    21300092: 2D ToonBear Jump Frame 4
+    21300094: 2D ToonBear Jump Frame 5
+    21300096: 2D ToonBear Jump Frame 6
+    21300098: 2D ToonBear Jump Frame 7
+    21300100: 2D ToonBear Jump Frame 8
+    21300102: 2D ToonBear Walk Frame 1
+    21300104: 2D ToonBear Walk Frame 2
+    21300106: 2D ToonBear Walk Frame 3
+    21300108: 2D ToonBear Walk Frame 4
+    21300110: 2D ToonBear Walk Frame 5
+    21300112: 2D ToonBear Walk Frame 6
+    21300114: 2D ToonBear Walk Frame 7
+    21300116: 2D ToonBear Walk Frame 8
+    21300118: 2D ToonBear Walk Frame 9
+    21300120: 2D ToonBear Walk Frame 10
+    21300122: 2D ToonBear Walk Frame 11
+    21300124: 2D ToonBear Walk Frame 12
+    21300126: 2D ToonBear Walk Frame 13
+    21300128: 2D ToonBear Sprint Frame 1
+    21300130: 2D Toon Bear Sprite Sheet_0
+    21300132: 2D Toon Bear Sprite Sheet_1
+    21300134: 2D Toon Bear Sprite Sheet_2
+    21300136: 2D Toon Bear Sprite Sheet_3
+    21300138: 2D Toon Bear Sprite Sheet_4
+    21300140: 2D Toon Bear Sprite Sheet_5
+    21300142: 2D Toon Bear Sprite Sheet_6
+    21300144: 2D Toon Bear Sprite Sheet_7
+    21300146: 2D Toon Bear Sprite Sheet_8
+    21300148: 2D Toon Bear Sprite Sheet_9
+    21300150: 2D Toon Bear Sprite Sheet_10
+    21300152: 2D Toon Bear Sprite Sheet_11
+    21300154: 2D Toon Bear Sprite Sheet_12
+    21300156: 2D Toon Bear Sprite Sheet_13
+    21300158: 2D Toon Bear Sprite Sheet_14
+    21300160: 2D Toon Bear Sprite Sheet_15
+    21300162: 2D Toon Bear Sprite Sheet_16
+    21300164: 2D Toon Bear Sprite Sheet_17
+    21300166: 2D Toon Bear Sprite Sheet_18
+    21300168: 2D Toon Bear Sprite Sheet_19
+    21300170: 2D Toon Bear Sprite Sheet_20
+    21300172: 2D Toon Bear Sprite Sheet_21
+    21300174: 2D Toon Bear Sprite Sheet_22
+    21300176: 2D Toon Bear Sprite Sheet_23
+    21300178: 2D Toon Bear Sprite Sheet_24
+    21300180: 2D Toon Bear Sprite Sheet_25
+    21300182: 2D Toon Bear Sprite Sheet_26
+    21300184: 2D Toon Bear Sprite Sheet_27
+    21300186: 2D Toon Bear Sprite Sheet_28
+    21300188: 2D Toon Bear Sprite Sheet_29
+    21300190: 2D Toon Bear Sprite Sheet_30
+    21300192: 2D Toon Bear Sprite Sheet_31
+    21300194: 2D Toon Bear Sprite Sheet_32
+    21300196: 2D Toon Bear Sprite Sheet_33
+    21300198: 2D Toon Bear Sprite Sheet_34
+    21300200: 2D Toon Bear Sprite Sheet_35
+    21300202: 2D Toon Bear Sprite Sheet_36
+    21300204: 2D Toon Bear Sprite Sheet_37
+    21300206: 2D Toon Bear Sprite Sheet_38
+    21300208: 2D Toon Bear Sprite Sheet_39
+    21300210: 2D Toon Bear Sprite Sheet_40
+    21300212: 2D Toon Bear Sprite Sheet_41
+    21300214: 2D Toon Bear Sprite Sheet_42
+    21300216: 2D Toon Bear Sprite Sheet_43
+    21300218: 2D Toon Bear Sprite Sheet_44
+    21300220: 2D Toon Bear Sprite Sheet_45
+    21300222: 2D Toon Bear Sprite Sheet_46
+    21300224: 2D Toon Bear Sprite Sheet_47
+    21300226: 2D Toon Bear Sprite Sheet_48
+    21300228: 2D Toon Bear Sprite Sheet_49
+    21300230: 2D Toon Bear Sprite Sheet_50
+    21300232: 2D Toon Bear Sprite Sheet_51
+    21300234: 2D Toon Bear Sprite Sheet_52
+    21300236: 2D Toon Bear Sprite Sheet_53
+    21300238: 2D Toon Bear Sprite Sheet_54
+    21300240: 2D Toon Bear Sprite Sheet_55
+    21300242: 2D Toon Bear Sprite Sheet_56
+    21300244: 2D Toon Bear Sprite Sheet_57
+    21300246: 2D Toon Bear Sprite Sheet_58
+    21300248: 2D Toon Bear Sprite Sheet_59
+    21300250: 2D Toon Bear Sprite Sheet_60
+    21300252: 2D Toon Bear Sprite Sheet_61
+    21300254: 2D Toon Bear Sprite Sheet_62
+    21300256: 2D Toon Bear Sprite Sheet_63
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1792
+        width: 135
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1792
+        width: 135
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1792
+        width: 135
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1792
+        width: 135
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1792
+        width: 135
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1792
+        width: 135
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1792
+        width: 135
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1792
+        width: 135
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1536
+        width: 135
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1536
+        width: 135
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1536
+        width: 165
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1536
+        width: 155
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1536
+        width: 128
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1536
+        width: 157
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1563
+        width: 172
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1550
+        width: 169
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1280
+        width: 164
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1280
+        width: 154
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1280
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1280
+        width: 157
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1307
+        width: 170
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1293
+        width: 166
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1280
+        width: 137
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1280
+        width: 136
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1024
+        width: 156
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1024
+        width: 199
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1024
+        width: 208
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1024
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1024
+        width: 187
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1024
+        width: 155
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1024
+        width: 138
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1024
+        width: 158
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 768
+        width: 181
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 768
+        width: 195
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 768
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 768
+        width: 150
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 768
+        width: 146
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 806
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 768
+        width: 190
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 768
+        width: 139
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 512
+        width: 145
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 549
+        width: 188
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 512
+        width: 135
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 512
+        width: 107
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 514
+        width: 107
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 524
+        width: 108
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 537
+        width: 112
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 550
+        width: 118
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 283
+        width: 116
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 272
+        width: 113
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 260
+        width: 113
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 256
+        width: 127
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 256
+        width: 123
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 256
+        width: 122
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 256
+        width: 109
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 256
+        width: 85
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 96
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 128
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 134
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 123
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 118
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 0
+        width: 102
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 85
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D Toon Bear Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 0
+        width: 100
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
